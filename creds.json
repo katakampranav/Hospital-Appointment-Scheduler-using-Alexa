@@ -1,14 +1,14 @@
 {
     "type": "service_account",
     "project_id": "alexa-appointment-scheduler",
-    "private_key_id": "0423565281245f2e671d7c9b96aaa028240b1765",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFNXskBfSTXU/Q\nL61A86ACKXyNKs8M6AKveFfqfRF2Y5BCDCMydcGsoiQ4rH0YZtZv/LHdjJAFFma1\n+1RX93ZVUNHJ+iLxgJEgLjnrytoLm7BWe5KlGFGSQvTf+h83Ctls7aMthZUKaIo6\n03srvXM0rd439uXtshkchjl71sVEr5945rwJQ/8qtH7smZRv8kvExEW77GCyKsMU\nnUKX12Kc4WGzIavzMojxxXCq8/Y8hMf4UrzQvtz7lFLoKfr2N7qC9OraJhz2oYhM\n2XDIACmDnujfk5ATffq6He5hD2jQi4gyjDV/fl4e7Rwvr4sR38YrgCQUYdr1UjNx\nX6MilrnXAgMBAAECggEAOln2OzT15qqsBIYu5fKQLEOZQm3hwMhfjwr1PIFQKu8P\nzrMnsPUN3uZFAG3tP8yh85XaDRtbu92ie4NHtBWZMmpNAM3eDAZGKrby1XV6qgeh\nmB1NSUNWU4gzS5iHJvKzXds8tqn5bRB8oiZUIh+W2IX/pCCObRQPARUoKh/k08r7\nUF98vEVcDsS7MxL5TbAntISbedcMesogNpa8eLEKJFDyL6k/7pD9jKBA61xyAPXc\nTsAJW4gNNmUVurb+oRZXYZiVl5OXDTSvbpxTTWeX/ZWGwTsxPq89jKB4JxtcSsP+\neVki5dsPQ2gdGO7tuy3YYuPGPwkIADljxzea+Cb88QKBgQD+TgE3dIeimHigYYKZ\nlPo3+EnZH/Og4Zc8b4xF47il2x53i0vHovzZhz70jEJIt1oCIefn6aqHZP5Le+IR\n9mCpMrJb2CMYD1bJql6adpckWxbienKrzkE4TI9uLe1CglcpH1gh/hUUYiaVEI+O\nD7zf/KEQV1Z9pk6qN3hXC1XTsQKBgQDGhglufA+FaKvVQH3SjG0jS5K1czskjwq1\n5ATmdAGM+AF/QqYgg+vwcHmsClhxZqxMH5buLSRPzM0k8BwW3GF+epdxXIUc/GsI\nu1C7TDreV9UqFsOdnDXHgXiaJYdmroUmMO6ed186D5WkWyVdplFZLE0ya++zLpyd\nqTOew0jwBwKBgQDgvJTsqinXsoEf0yy0h2jdn6m7nTYT3mll+npvpUCgKlXxdYOh\nyNNFdfVX7sABPS/pJIeqduDCSKlGkhOGpkJkJK5k5kyVTbD4BX0XamhFs840ldvT\nIzKWC2rSBvpfRYq7h7y+RanhWqAYKguDkzrqg3rfUx/XaOqqGN1bp2PQ8QKBgC3f\nuz40nMGPNmXIyUpl+LI3PGeBgSEpjKgLULaQB+uzQ2VM2WaaFWMyGmuO2HEb8KSG\niDHxbHqkMKNgeJ0vv7eiTGx9nKTeDz2tSzJ8ov3N/gwDxqAdALBhUqUMFwW7Pjld\nBUbI/tBD2ahpB3FkhVe9zPjhyDn3g2lLOApvxeLxAoGAe86J1ahlaMXVceJjDn8P\nrMjKi1iTJHPkiDRRYPMU8aN6zfNhJFZ+e0N2vDbNB2cb/q83l9ETijcyT39Dz0d2\nnwE1637WT+bhNBGQV11pdhCrCfo+zTG/jskZg1dDj3ju5UHKciv9io6sczE/fjnB\nYkdaX8csWKz1o0GsvRJR2Mk=\n-----END PRIVATE KEY-----\n",
-    "client_email": "hospital-appointment-scheduler@alexa-appointment-scheduler.iam.gserviceaccount.com",
-    "client_id": "111727879170845226747",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hospital-appointment-scheduler%40alexa-appointment-scheduler.iam.gserviceaccount.com",
+    "private_key_id": "your-private_key_id",
+    "private_key": "your-private-private_key",
+    "client_email": "your-client_email",
+    "client_id": "your_client_id",
+    "auth_uri": "your-auth_uri",
+    "token_uri": "your-token_uri",
+    "auth_provider_x509_cert_url": "your-auth_provider_x509_cert_url",
+    "client_x509_cert_url": "your-client_x509_cert_url",
     "universe_domain": "googleapis.com"
   }
   
