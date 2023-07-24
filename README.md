@@ -127,6 +127,12 @@ New patients can efficiently register and schedule appointments through the Hosp
 6.	**Appointment Booking**: After selecting a suitable doctor and appointment slot, the patient can proceed to book the appointment. Alexa will confirm the booking and send a confirmation email to the patient.
 
 
+![mainimg1](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/e12fbd32-e859-4e52-9d99-f1a66c394efc)
+
+![mainimg2](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/8df9fdf0-be12-40f6-abb0-4a937f68265e)
+
+
+
 ## Working with Returning Patients
 Returning patients can conveniently access their accounts and manage appointments through the Hospital Appointment Scheduler skill. Here's a step-by-step guide on how returning patients can use the skill:
 
@@ -140,13 +146,18 @@ Returning patients can conveniently access their accounts and manage appointment
 
 5.	**Appointment Booking**: After selecting a suitable doctor and appointment slot, the patient can proceed to book the appointment. Alexa will confirm the booking and send a confirmation email to the patient.
 
-![mainimg1](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/e12fbd32-e859-4e52-9d99-f1a66c394efc)
 
-![mainimg2](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/8df9fdf0-be12-40f6-abb0-4a937f68265e)
+![mainimg1](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/682f414d-a670-4249-85b0-ec1d6aed71ea)
+
+![mainimg2](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/f3c56acd-461a-46c4-b9cd-383f2c6a1800)
+
 
 
 ## In case if you forgot your Patient ID
 -->**Forgot Patient ID**: In case the patient forgets their patient ID, Alexa will offer an alternative way to verify their identity. The patient can say, "I forgot my patient ID," and Alexa will ask for their father's name for verification.
+
+
+
 
 
 ## Applications
