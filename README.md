@@ -166,6 +166,17 @@ Returning patients can conveniently access their accounts and manage appointment
 ![img10](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/e1626c00-8bc2-4e25-961b-d3364c4b8aa2)
 
 
+## Emails you get while working with the skill
+
+--> Verification Email
+
+--> Conformation page
+
+--> Details Email
+
+--> Appointment Scheduled Email
+
+
 ## Applications
 
 1. **Voice-Based Doctor Recommendations**: Implement a feature that allows Alexa to recommend doctors based on the patient's symptoms or medical conditions. Users can ask Alexa for suggestions, and the skill can provide a list of doctors specializing in relevant fields.
