@@ -110,12 +110,12 @@ New patients can efficiently register and schedule appointments through the Hosp
 1.	**Skill Invocation**: New patients can initiate the skill by saying "Alexa, open Hospital Appointment Scheduler."
 
 2.	**Registration**: Alexa will guide the new patient through the registration process. The patient needs to provide the following information:
-•	Full Name
-•	Age
-•	Gender
-•	Date of Birth (DOB)
-•	Father's Name
-•	Email Address
+      •	Full Name
+      •	Age
+      •	Gender
+      •	Date of Birth (DOB)
+      •	Father's Name
+      •	Email Address
 
 
 3.	**Email Verification**: After registration, the skill will send a verification email to the provided email address. The patient must check their email and follow the instructions to complete the verification process.
@@ -130,7 +130,6 @@ New patients can efficiently register and schedule appointments through the Hosp
 ![mainimg1](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/e12fbd32-e859-4e52-9d99-f1a66c394efc)
 
 ![mainimg2](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/8df9fdf0-be12-40f6-abb0-4a937f68265e)
-
 
 
 ## Working with Returning Patients
@@ -157,7 +156,7 @@ Returning patients can conveniently access their accounts and manage appointment
 -->**Forgot Patient ID**: In case the patient forgets their patient ID, Alexa will offer an alternative way to verify their identity. The patient can say, "I forgot my patient ID," and Alexa will ask for their father's name for verification.
 
 
-
+![img10](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/e1626c00-8bc2-4e25-961b-d3364c4b8aa2)
 
 
 ## Applications
