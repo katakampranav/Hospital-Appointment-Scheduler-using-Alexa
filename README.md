@@ -42,6 +42,7 @@ The Hospital Appointment Scheduler skill is built using the following technologi
 
 ## Work Flow
 
+![image](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/39ec247b-6ad4-4cc4-a461-f5734224d0c0)
 
 
 ## Skill Features
