@@ -168,14 +168,14 @@ Returning patients can conveniently access their accounts and manage appointment
 
 ## Emails you get while working with the skill
 
---> Verification Email
+## Verification Email
+![mainimg1](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/c28befa8-abf8-447b-8ce9-7ef8b5f1a410)
+## Conformation page
 
---> Conformation page
-
---> Details Email
-
---> Appointment Scheduled Email
-
+## Details Email
+![mainimg2](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/b6191d1b-705f-4f57-8340-826c23461838)
+## Appointment Scheduled Email
+![img10](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/1bf5af2c-173b-4e37-bc23-c506c693d19a)
 
 ## Applications
 
