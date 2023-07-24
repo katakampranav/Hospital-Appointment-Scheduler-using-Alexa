@@ -206,6 +206,14 @@ We used a fake email to chech wheather it is working ....
 ## Appointment Scheduled Email
 ![img10](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/1bf5af2c-173b-4e37-bc23-c506c693d19a)
 
+
+## Appointment Scheduling Process in Google Calendar
+The image below will provide the information or pictorial representation how the appointments of different patients are scheduled in calendar (Hospital Calendar)
+
+
+The image below will provide the representation how the doctor will be able to access the information of patient in his personal calendar or whole hospital calendar
+
+
 ## Applications
 
 1. **Voice-Based Doctor Recommendations**: Implement a feature that allows Alexa to recommend doctors based on the patient's symptoms or medical conditions. Users can ask Alexa for suggestions, and the skill can provide a list of doctors specializing in relevant fields.
