@@ -111,8 +111,8 @@ The Lambda function for the Hospital Appointment Scheduler skill is responsible 
 
 ## Author
 
-The Hospital Appointment Scheduler using Alexa skill was developed by [Author Name].
+The Hospital Appointment Scheduler using Alexa skill was developed by "Pranav Shankar".
 
 ## Feedback
 
-For any feedback or queries, please reach out to the author at [author_email@example.com].
+For any feedback or queries, please reach out to the author at katakampranavshankar@gmail.com.
