@@ -187,9 +187,9 @@ We used a fake email to chech wheather it is working ....
 
 The Hospital Appointment Scheduler using Alexa skill was developed by :
 -	@katakampranav
--	Repository : 
+-	Repository : https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa
 
 
 ## Feedback
 
-For any feedback or queries, please reach out to the author at katakampranavshankar@gmail.com.
+For any feedback or queries, please reach out to me at katakampranavshankar@gmail.com.
