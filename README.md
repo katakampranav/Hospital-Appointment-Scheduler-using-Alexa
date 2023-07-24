@@ -77,6 +77,7 @@ The Hospital Appointment Scheduler skill is built using the following technologi
 The Lambda function for the Hospital Appointment Scheduler skill is responsible for handling user requests and interacting with the backend services. It is written in Python and integrated with the ASK SDK for Alexa interactions. The code is structured into several intent handlers to handle different user intents, such as registration, login, appointment booking, doctor recommendations, and more.
 
 **Code Link:** https://drive.google.com/file/d/1bd1YhIb3PICCIkCkxA7kR7VNLLx1PAk4/view?usp=sharing
+
 ## Skill Invocation and User Flow
 
 1. **Skill Launch**: Users can invoke the skill by saying "Alexa, open Hospital Appointment Scheduler."
@@ -96,6 +97,47 @@ The Lambda function for the Hospital Appointment Scheduler skill is responsible 
 8. **Voice Authentication**: The skill uses voice authentication for user identity verification during registration and login.
 
 9. **Email Notifications**: Verification emails are sent to new patients, and confirmation emails are sent for scheduled appointments.
+
+
+## Working with New Patients
+New patients can efficiently register and schedule appointments through the Hospital Appointment Scheduler skill. Below is a step-by-step guide on how new patients can utilize the skill:
+
+1.	**Skill Invocation**: New patients can initiate the skill by saying "Alexa, open Hospital Appointment Scheduler."
+
+2.	**Registration**: Alexa will guide the new patient through the registration process. The patient needs to provide the following information:
+•	Full Name
+•	Age
+•	Gender
+•	Date of Birth (DOB)
+•	Father's Name
+•	Email Address
+
+
+3.	**Email Verification**: After registration, the skill will send a verification email to the provided email address. The patient must check their email and follow the instructions to complete the verification process.
+
+4.	**Account Creation**: Once the email is verified, the skill will create a unique patient ID for the new patient. The patient can use this ID for future logins.
+
+5.	**Doctor Availability Checking**: New patients can inquire about doctor availability based on their preferred specialization, date, and time.
+
+6.	**Appointment Booking**: After selecting a suitable doctor and appointment slot, the patient can proceed to book the appointment. Alexa will confirm the booking and send a confirmation email to the patient.
+
+
+## Working with Returning Patients
+Returning patients can conveniently access their accounts and manage appointments through the Hospital Appointment Scheduler skill. Here's a step-by-step guide on how returning patients can use the skill:
+
+1.	**Skill Invocation**: Returning patients can launch the skill by saying "Alexa, open Hospital Appointment Scheduler."
+
+2.	**Returning Patient Login**: Alexa will prompt the returning patient to provide their unique patient ID for authentication. The patient can say, "My patient ID is [patient ID]," to log in directly.
+
+3.	**Appointment Management**: Once logged in, returning patients can manage their appointments with ease. They can schedule appointments, check available doctors by giving date, time and your required specialization.
+
+4.	**Doctor Recommendations**: Returning patients can also ask for doctor recommendations based on their medical condition or symptoms. Alexa will provide a list of doctors specializing in relevant fields to help them make informed decisions.
+
+5.	**Appointment Booking**: After selecting a suitable doctor and appointment slot, the patient can proceed to book the appointment. Alexa will confirm the booking and send a confirmation email to the patient.
+
+## In case if you forgot your Patient ID
+-->**Forgot Patient ID**: In case the patient forgets their patient ID, Alexa will offer an alternative way to verify their identity. The patient can say, "I forgot my patient ID," and Alexa will ask for their father's name for verification.
+
 
 ## Applications
 
