@@ -1,8 +1,8 @@
-# Hospital Appointment Scheduler using Alexa - Documentation
+# Hospital Appointment Scheduler using Alexa 
 
 ## Introduction
 
-Welcome to the documentation for the Hospital Appointment Scheduler using Alexa skill! This skill enables users to conveniently book appointments with doctors at XYZ Hospital using voice commands through Alexa-enabled devices.
+Step into the world of seamless healthcare management with our cutting-edge Hospital Appointment Scheduler using Alexa skill! Embrace the future of healthcare as you effortlessly book appointments with renowned doctors at XYZ Hospital, all at your command through any Alexa-enabled device. With this skill, you hold the power to manage your health with ease, making the entire appointment booking process a breeze while ensuring you receive the best medical care possible.
 
 ## Problem Statement
 
