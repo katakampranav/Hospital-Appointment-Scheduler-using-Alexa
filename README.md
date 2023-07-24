@@ -40,6 +40,10 @@ The Hospital Appointment Scheduler skill is built using the following technologi
 - **Google Calendar API**: An API for managing Google Calendar events and availability.
 - **Amazon Simple Email Service (SES)**: A service for sending emails to users.
 
+## Work Flow
+
+
+
 ## Skill Features
 
 ### User Registration and Verification
