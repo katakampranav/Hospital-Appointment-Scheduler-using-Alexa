@@ -51,11 +51,13 @@ The Hospital Appointment Scheduler skill is built using the following technologi
 
 - New patients can register by providing their full name, age, gender, DOB, father's name, and email.
 - The skill sends a verification email to the provided email address for identity confirmation.
-- Returning patients can log in using their patient ID or verify their identity using their father's name.
+- After confirmation, The details of patient are stored in the DynamoDB in the form of table.
+- Returning patients can log in using their patient ID or if they forgot their patiend ID they can verify their identity using their father's name.
 
 ### Doctor Availability Checking
 
 - Patients can search for available doctors based on a specified specialization, date, and time.
+- The details of the doctors are retrieved from the DynamoDB table of doctors_details.
 - The skill uses the Google Calendar API to check the availability of doctors for the specified time slot.
 
 ### Appointment Booking
@@ -87,7 +89,7 @@ The Lambda function for the Hospital Appointment Scheduler skill is responsible 
 
 1. **Skill Launch**: Users can invoke the skill by saying "Alexa, open Hospital Appointment Scheduler."
 
-2. **New Patient**: New patients can provide their information during the registration process. The skill will send a verification email to the provided email address.
+2. **New Patient**: New patients can provide their information during the registration process and store them in DynamoDB. The skill will send a verification email to the provided email address.
 
 3. **Verification**: New patients need to verify their email by following the instructions in the verification email.
 
@@ -123,9 +125,11 @@ New patients can efficiently register and schedule appointments through the Hosp
 
 5.	**Account Creation**: Once the email is verified, the skill will create a unique patient ID for the new patient. The patient can use this ID for future logins.
 
-6.	**Doctor Availability Checking**: New patients can inquire about doctor availability based on their preferred specialization, date, and time.
+6.	**Storing the Information**: The details of the patient are successfully stored in the DynamoDB in the form of table.
 
-7.	**Appointment Booking**: After selecting a suitable doctor and appointment slot, the patient can proceed to book the appointment. Alexa will confirm the booking and send a confirmation email to the patient.
+7.	**Doctor Availability Checking**: New patients can inquire about doctor availability based on their preferred specialization, date, and time.
+
+8.	**Appointment Booking**: After selecting a suitable doctor and appointment slot, the patient can proceed to book the appointment. Alexa will confirm the booking and send a confirmation email to the patient.
 
 
 ![mainimg1](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/e12fbd32-e859-4e52-9d99-f1a66c394efc)
@@ -158,6 +162,37 @@ Returning patients can conveniently access their accounts and manage appointment
 
 
 ![img10](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/e1626c00-8bc2-4e25-961b-d3364c4b8aa2)
+
+
+## DynamoDB
+In our project we use two DynamoDB tables:
+
+1. Patient_Registration Table:
+
+- Purpose: This table is used to store the registration details of new patients who use the Alexa skill for the first time.
+-Attributes:
+      - patient_id: The unique identifier for each patient.
+      - full_name: The full name of the patient.
+      - age: The age of the patient.
+      - gender: The gender of the patient.
+      - DOB: The date of birth of the patient.
+      - Father_name: The father's name of the patient.
+      - email: The email address of the patient used for verification and communication.
+- Usage: When a new patient uses the skill, their registration information is collected and stored in this table. It is also used to retrieve the patient's details when they return to the skill.
+
+- Patient_Registration csv file: 
+
+2. doctor_calendar_table Table:
+
+- Purpose: This table is used to store the availability details of doctors for scheduling appointments.
+- Attributes:
+      - doctor_name: The name of the doctor.
+      - specialization: The medical specialization of the doctor.
+      - calendar_id: The unique identifier for the doctor's Google Calendar.
+-Usage: The skill checks this table to find available doctors based on user-requested medical specialization and schedules appointments by updating the doctors' calendars with the appointment details.
+
+- doctor_calendar_table csv file: 
+
 
 
 ## Emails you get while working with the skill
