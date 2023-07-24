@@ -197,21 +197,23 @@ In our project we use two DynamoDB tables:
 
 ## Emails you get while working with the skill
 We used a fake email to chech wheather it is working ....
-## Verification Email
+### Verification Email
 ![mainimg1](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/c28befa8-abf8-447b-8ce9-7ef8b5f1a410)
-## Conformation page
+### Conformation page
 ![mainimg3](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/d451583c-3de5-4029-9d18-e2d8af546194)
-## Details Email
+### Details Email
 ![mainimg2](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/b6191d1b-705f-4f57-8340-826c23461838)
-## Appointment Scheduled Email
+### Appointment Scheduled Email
 ![img10](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/1bf5af2c-173b-4e37-bc23-c506c693d19a)
 
 
 ## Appointment Scheduling Process in Google Calendar
-The image below will provide the information or pictorial representation how the appointments of different patients are scheduled in calendar (Hospital Calendar)
+### -> The image below will provide the information or pictorial representation how the appointments of different patients are scheduled in calendar (Hospital Calendar)
+- Different colours in the calendar left side represent different doctors of the respective hospital.
+![image](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/ed173b27-da33-4b87-bbf3-e43249a4df3a)
 
-
-The image below will provide the representation how the doctor will be able to access the information of patient in his personal calendar or whole hospital calendar
+### -> The image below will provide the representation how the doctor will be able to access the information of patient in his personal calendar or whole hospital calendar
+![image](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/b1f1acef-8c06-4de5-8e97-5829464637cb)
 
 
 ## Applications
