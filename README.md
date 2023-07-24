@@ -110,21 +110,28 @@ New patients can efficiently register and schedule appointments through the Hosp
 1.	**Skill Invocation**: New patients can initiate the skill by saying "Alexa, open Hospital Appointment Scheduler."
 
 2.	**Registration**: Alexa will guide the new patient through the registration process. The patient needs to provide the following information:
-      •	Full Name
-      •	Age
-      •	Gender
-      •	Date of Birth (DOB)
-      •	Father's Name
-      •	Email Address
+
+   
+      • Full Name
+  	
+      • Age
+  	
+      • Gender
+  	
+      • Date of Birth (DOB)
+  	
+      • Father's Name
+  	
+      • Email Address
 
 
-3.	**Email Verification**: After registration, the skill will send a verification email to the provided email address. The patient must check their email and follow the instructions to complete the verification process.
+4.	**Email Verification**: After registration, the skill will send a verification email to the provided email address. The patient must check their email and follow the instructions to complete the verification process.
 
-4.	**Account Creation**: Once the email is verified, the skill will create a unique patient ID for the new patient. The patient can use this ID for future logins.
+5.	**Account Creation**: Once the email is verified, the skill will create a unique patient ID for the new patient. The patient can use this ID for future logins.
 
-5.	**Doctor Availability Checking**: New patients can inquire about doctor availability based on their preferred specialization, date, and time.
+6.	**Doctor Availability Checking**: New patients can inquire about doctor availability based on their preferred specialization, date, and time.
 
-6.	**Appointment Booking**: After selecting a suitable doctor and appointment slot, the patient can proceed to book the appointment. Alexa will confirm the booking and send a confirmation email to the patient.
+7.	**Appointment Booking**: After selecting a suitable doctor and appointment slot, the patient can proceed to book the appointment. Alexa will confirm the booking and send a confirmation email to the patient.
 
 
 ![mainimg1](https://github.com/katakampranav/Hospital-Appointment-Scheduler-using-Alexa/assets/133202118/e12fbd32-e859-4e52-9d99-f1a66c394efc)
