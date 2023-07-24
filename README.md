@@ -111,19 +111,12 @@ New patients can efficiently register and schedule appointments through the Hosp
 1.	**Skill Invocation**: New patients can initiate the skill by saying "Alexa, open Hospital Appointment Scheduler."
 
 2.	**Registration**: Alexa will guide the new patient through the registration process. The patient needs to provide the following information:
-
-   
-      • Full Name
-  	
-      • Age
-  	
-      • Gender
-  	
-      • Date of Birth (DOB)
-  	
-      • Father's Name
-  	
-      • Email Address
+      - Full Name
+      - Age
+      - Gender
+      - Date of Birth (DOB)
+      - Father's Name
+      - Email Address
 
 
 4.	**Email Verification**: After registration, the skill will send a verification email to the provided email address. The patient must check their email and follow the instructions to complete the verification process.
@@ -192,7 +185,10 @@ We used a fake email to chech wheather it is working ....
 
 ## Author
 
-The Hospital Appointment Scheduler using Alexa skill was developed by "Pranav Shankar".
+The Hospital Appointment Scheduler using Alexa skill was developed by :
+-	@katakampranav
+-	Repository : 
+
 
 ## Feedback
 
