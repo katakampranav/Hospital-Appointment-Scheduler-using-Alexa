@@ -10,7 +10,7 @@ The primary goal of the Hospital Appointment Scheduler using Alexa skill is to s
 
 ## Solution Overview
 
-The Hospital Appointment Scheduler skill is built using the Alexa Skills Kit (ASK) and integrates with AWS Lambda for serverless execution. It leverages AWS DynamoDB for storing patient and doctor information, Google Calendar API for doctor availability, and Amazon Simple Email Service (SES) for email notifications.
+The Hospital Appointment Scheduler is built using the Alexa Skills Kit (ASK) and integrates with AWS Lambda for serverless execution. It leverages AWS DynamoDB for storing patient and doctor information, Google Calendar API for doctor availability, and Amazon Simple Email Service (SES) for email notifications.
 
 Here's an overview of the key components of the solution:
 
